@@ -33,7 +33,6 @@ Weather-Predictor/
 └── images/
 
 ## Live Demo
-GitHub Pages:
 https://rishabhbaghel27.github.io/Weather-Predictor/
 
 ## Future Improvements
